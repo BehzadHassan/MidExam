@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import './App.css'
 import CountDownLightSwitch from './CountDownLightSwitch'
 
 function App() {
